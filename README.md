@@ -67,7 +67,7 @@ This project is currently in MVP development. The system supports object recogni
 
 ### Team Members
 
-- SABITH P 1 — Project Lead & Flutter Development
+- SABITH P  — Project Lead & Flutter Development
 - EBIN THOMAS — AI/ML Model Development
 - RONALDO RAJAN — Navigation System & Pathfinding
 - RAHIL ROSHAN — UI/UX Design
